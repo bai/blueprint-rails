@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.rubyforge_project = '[none]'
 
-  s.add_dependency "railties", ">= 3.0", "< 5.0"
+  s.add_dependency "railties", ">= 3.0", "< 6.0"
   s.add_dependency "thor",     ">= 0.14", "< 2.0"
+  s.add_development_dependency "minitest-rails"
 end

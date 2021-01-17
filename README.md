@@ -12,7 +12,7 @@ If you need `grid.png`, just use it in your stylesheets:
 
     .showgrid { background:url('/assets/grid.png'); }
 
-## Rails 3.1
+## Rails 3.1 and later
 
 To use it in your application, just include this gem in your Gemfile:
 
